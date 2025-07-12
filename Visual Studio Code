@@ -1,0 +1,5 @@
+Open VS Code.
+Press Cmd + Shift + P to open the Command Palette.
+Type:
+Shell Command: Install 'code' command in PATH
+and select it
